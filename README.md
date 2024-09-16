@@ -3,9 +3,10 @@
 Este script calcula el Máximo Común Divisor (MCD) de dos números utilizando el Algoritmo de Euclides y también expresa el **MCD(A,B) = AX + BY**.
 
 ## Uso:
-![Texto alternativo](run-example.png)
+![Texto alternativo](usange.png)
+
 ## Ejemplo de ejecucion con A = 40 B = 20
-![network weights](https://raw.github.com/estefanozarate/euclidean-algorithm/blob/main/run-example.png?rar=true)
+![Texto alternativo](run-example.png)
 
 
 ## Requisitos
